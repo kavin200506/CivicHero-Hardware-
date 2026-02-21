@@ -1,0 +1,35 @@
+# Firebase Service Account Key (Sensitive - DO NOT COMMIT)
+serviceAccountKey.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+last_reported.json
+samples/temp_captures/*.jpg
+
+# Model files (if large)
+# ultra.pt
+
+
+
+
